@@ -1,20 +1,20 @@
 # Java-Script-Project
-Live Link:
+<b>Live Link:</b><br>
 https://vadym-usatiuk.github.io/Java-Script-Project/index.html
 <br>
-Prerequisites:
-•	PC or mobile device
-•	Updated Browser
-•	Internet
+<b>Prerequisites:</b><br>
+•	PC or mobile device<br>
+•	Updated Browser<br>
+•	Internet<br>
 <br>
-Built With:
-•	Java Script
-•	HTML5
-•	CSS
-•	Bootstrap 4.5
+<b>Built With:</b><br>
+•	Java Script<br>
+•	HTML5<br>
+•	CSS<br>
+•	Bootstrap 4.5<br>
 <br>
 <br>
-Getting Started:
+<bold>Getting Started:</bold><br>
 This design-responsive website is a promo of official Per Scholas website.
 <br>
 Header has a dropdown menu for easy HTML page navigation. You can use Donate button to make a donation for Per Scholas.
