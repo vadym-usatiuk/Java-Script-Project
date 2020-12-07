@@ -476,10 +476,7 @@ section.features .col-4 {
 /* Why Choosing Us Section*/
 
 section.why-us {
-  background-image: url(../images/choosing-bg.jpg);
   background-color: #172238;
-  background-repeat: no-repeat;
-  background-size: cover;
   padding-bottom: 100px;
 }
 
@@ -589,8 +586,11 @@ section.why-us {
   }
 
   .section.coming-soon {
-    margin-top: 10px;
-    padding-top: 10px;
+    margin-top: -90px;
+    padding: 10px;
+  }
+  section.video{
+    margin-top: -100px;
   }
 }
 
@@ -609,7 +609,6 @@ section.why-us {
 /* Enroll Now Section */
 
 section.coming-soon {
-  background-image: url(../images/coming-soon-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #172238;
@@ -826,9 +825,6 @@ section.coming-soon form button {
 /* Courses */
 
 section.courses {
-  background-image: url(../images/choosing-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   background-color: #172238;
   padding-bottom: 100px;
   padding: 0px 30px 100px 30px;
@@ -898,9 +894,6 @@ section.courses .owl-carousel button.active {
 /* Video */
 
 section.video {
-  background-image: url(../images/video-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   background-color: #172238;
   padding: 120px 0px;
 }
@@ -1456,7 +1449,7 @@ img.mfp-img {
 /* Contact */
 
 section.contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/contact.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #172238;
