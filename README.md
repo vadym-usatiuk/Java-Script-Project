@@ -1,6 +1,6 @@
 # Java-Script-Project
 <b>Live Link:</b><br>
-https://vadym-usatiuk.github.io/Java-Script-Project/index.html
+https://vadym-usatiuk.github.io/Java-Script-Project/index.html <br>
 <br>
 <b>Prerequisites:</b><br>
 •	PC or mobile device<br>
@@ -15,27 +15,27 @@ https://vadym-usatiuk.github.io/Java-Script-Project/index.html
 <br>
 <br>
 <bold>Getting Started:</bold><br>
-This design-responsive website is a promo of official Per Scholas website.
+This design-responsive website is a promo of official Per Scholas website.<br>
 <br>
-Header has a dropdown menu for easy HTML page navigation. You can use Donate button to make a donation for Per Scholas.
+Header has a dropdown menu for easy HTML page navigation. You can use Donate button to make a donation for Per Scholas.<br>
 <br>
-Page “why-us” has tab contents that include text and digital information.
-Here you can find a few benefits of Per Scholas courses.
+Page “why-us” has tab contents that include text and digital information.<br>
+Here you can find a few benefits of Per Scholas courses.<br>
 <br>
-Homepage has a full-size video banner with three rollover content boxes at the bottom. Here you can find motivation text, information about online classes during pandemic situation and about future plans to study on-site. Each content box includes nav-links. 
+Homepage has a full-size video banner with three rollover content boxes at the bottom. Here you can find motivation text, information about online classes during pandemic situation and about future plans to study on-site. Each content box includes nav-links. <br>
 <br>
-Page “coming-soon” has JS countdown timer and form application.
-On this page you can set date of start Java Full Stack Development course.
-Using the application form, you can apply for the course.
+Page “coming-soon” has JS countdown timer and form application.<br>
+On this page you can set date of start Java Full Stack Development course.<br>
+Using the application form, you can apply for the course.<br>
 <br>
-Page “courses” has carousel items that include text and digital information. 
-On this page you can find real base information about Per Scholas courses with external links on Per Scholas website.
+Page “courses” has carousel items that include text and digital information. <br>
+On this page you can find real base information about Per Scholas courses with external links on Per Scholas website.<br>
 <br>
-Page “video” has review about Per Scholas that include text and digital information. You can read review, use hyperlink-link, or watch YouTube video.
+Page “video” has review about Per Scholas that include text and digital information. You can read review, use hyperlink-link, or watch YouTube video.<br>
 <br>
-Page “contact” has contact form application and google map location.
+Page “contact” has contact form application and google map location.<br>
 <br>
-Footer has copyright information and link on my LinkedIn profile.
+Footer has copyright information and link on my LinkedIn profile.<br>
 
 
 
