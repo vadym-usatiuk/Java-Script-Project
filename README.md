@@ -14,7 +14,7 @@ https://vadym-usatiuk.github.io/Java-Script-Project/index.html <br>
 •	Bootstrap 4.5<br>
 <br>
 <br>
-<bold>Getting Started:</bold><br>
+<b>Getting Started:</b><br>
 This design-responsive website is a promo of official Per Scholas website.<br>
 <br>
 Header has a dropdown menu for easy HTML page navigation. You can use Donate button to make a donation for Per Scholas.<br>
